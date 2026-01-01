@@ -1,0 +1,8 @@
+{
+  "name": "DevCore Project Chimera",
+  "description": "A hyper-modular, AI-driven commercial-grade feature management and service orchestration toolkit.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
